@@ -1,6 +1,6 @@
 # Exercises-of-introductory-artificial-intelligence-course-of-Tos-University
 تمرین های ارسالی دانشگاه توس
-# Exercises-for-introductory-artificial-intelligence-course-at-Mashhad-Azad-University
+
 تمرین های درس هوش مصنوعی (پایتون: ۱۰ تمرین.
 
 
